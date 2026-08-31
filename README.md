@@ -46,14 +46,21 @@
 
 ## <img src="Resources/nerd analyze Sticker by SurveyMonkey.gif" width="25"> <b>Github Stats</b>
 
-<p align="center">
-    <a href="https://github.com/ShyAd1">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyAd1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="430"/>
-    </a>
-    <a href="https://github.com/ShyAd1">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyAd1&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"/>
-    </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="420"/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShyAd1&layout=compact&langs_count=8&title_color=a855f7&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="310"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="500"/>
+
+</div>
 
 ## Connect with me
 
