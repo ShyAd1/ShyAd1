@@ -68,6 +68,6 @@
   <a href="mailto:adheva05@gmail.com"><img src="https://img.shields.io/badge/Gmail-6500CB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/adair-hernandez-valdivia-001854381/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-915C66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-6500CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
