@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Resources/header-ornament.svg" width="720" alt="">
+</p>
+
 <h1 align="center">
   Hey, hi, I'm Adair Hernández
   <img src="Resources/Hi.gif" width = "30">
@@ -8,7 +12,7 @@
   Computer vision · Parallel computing · Evolutionary algorithms
 </p>
 
----
+<p align="center"><img src="Resources/divider.svg" width="640" alt=""></p>
 
 ## 👤 About Me
 
@@ -19,7 +23,7 @@
 - 🎮 Outside of code: music and gaming
 - ⚡ Fun fact: I sometimes sleep only 4–6 hours, but I always give 100%
 
----
+<p align="center"><img src="Resources/divider.svg" width="640" alt=""></p>
 
 ## 🚀 Featured Projects
 
@@ -32,7 +36,7 @@
 | [**Artificial-Vision**](https://github.com/ShyAd1/Artificial-Vision)                                                                           | Computer vision exercises and experiments.                                                                                                               | MATLAB       |
 | [**Theory-of-computation**](https://github.com/ShyAd1/Theory-of-computation)                                                                   | Automata and formal language exercises.                                                                                                                  | Java         |
 
----
+<p align="center"><img src="Resources/divider.svg" width="640" alt=""></p>
 
 ## <img src="Resources/Script Coding Sticker by fourplex GmbH.gif" width="25px" height="25px"> Languages and Tools
 
@@ -40,46 +44,46 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0076a5?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1226?style=for-the-badge&logo=python&logoColor=c084fc)
+![C](https://img.shields.io/badge/C-1a1226?style=for-the-badge&logo=c&logoColor=c084fc)
+![C#](https://img.shields.io/badge/C%23-1a1226?style=for-the-badge&logo=c-sharp&logoColor=c084fc)
+![Java](https://img.shields.io/badge/Java-1a1226?style=for-the-badge&logo=openjdk&logoColor=c084fc)
+![MATLAB](https://img.shields.io/badge/MATLAB-1a1226?style=for-the-badge&logo=mathworks&logoColor=c084fc)
+![CUDA](https://img.shields.io/badge/CUDA-1a1226?style=for-the-badge&logo=nvidia&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1226?style=for-the-badge&logo=javascript&logoColor=c084fc)
+![HTML5](https://img.shields.io/badge/HTML5-1a1226?style=for-the-badge&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-1a1226?style=for-the-badge&logo=css3&logoColor=c084fc)
+![SQL](https://img.shields.io/badge/SQL-1a1226?style=for-the-badge&logo=databricks&logoColor=c084fc)
 
 **Data Science & AI**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1226?style=for-the-badge&logo=scikit-learn&logoColor=c084fc)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1226?style=for-the-badge&logo=jupyter&logoColor=c084fc)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1226?style=for-the-badge&logo=mysql&logoColor=c084fc)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-1a1226?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=c084fc)
 
 **Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1226?style=for-the-badge&logo=visual-studio-code&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-1a1226?style=for-the-badge&logo=git&logoColor=c084fc)
+![GitHub](https://img.shields.io/badge/GitHub-1a1226?style=for-the-badge&logo=github&logoColor=c084fc)
+![Canva](https://img.shields.io/badge/Canva-1a1226?style=for-the-badge&logo=canva&logoColor=c084fc)
+![Windows](https://img.shields.io/badge/Windows-1a1226?style=for-the-badge&logo=windows&logoColor=c084fc)
 
 </div>
 
----
+<p align="center"><img src="Resources/divider.svg" width="640" alt=""></p>
 
 ## <img src="Resources/nerd analyze Sticker by SurveyMonkey.gif" width="25"> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="380" alt="ShyAd1's GitHub stats">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="420" alt="ShyAd1's GitHub stats">
 
-<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="400" alt="ShyAd1's contribution streak">
+<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="500" alt="ShyAd1's contribution streak">
 
 </div>
 
@@ -91,7 +95,7 @@
 
 </div>
 
----
+<p align="center"><img src="Resources/divider.svg" width="640" alt=""></p>
 
 ## 📫 Connect with Me
 
@@ -105,4 +109,8 @@
   <a href="mailto:adheva05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6500CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<p align="center">
+  <img src="Resources/header-ornament.svg" width="360" alt="">
 </p>
