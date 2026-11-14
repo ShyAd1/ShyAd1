@@ -51,6 +51,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 
+**Data Science & AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,6 +79,16 @@
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="420" alt="ShyAd1's GitHub stats">
 
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShyAd1&layout=compact&langs_count=8&title_color=a855f7&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="310" alt="ShyAd1's most used languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="500" alt="ShyAd1's contribution streak">
+
 </div>
 
 ---
@@ -87,9 +102,7 @@
   <a href="https://orcid.org/0009-0009-8603-6963">
     <img src="https://img.shields.io/badge/ORCID-6500CB?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
-  <!-- Optional: uncomment to show your email publicly (may attract spam)
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:adheva05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6500CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  -->
 </p>
