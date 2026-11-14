@@ -81,9 +81,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="420" alt="ShyAd1's GitHub stats">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShyAd1&count_private=true&show_icons=true&include_all_commits=true&title_color=a855f7&icon_color=d8b4fe&text_color=c084fc&bg_color=0d1117&border_color=4c1d95" width="380" alt="ShyAd1's GitHub stats">
 
-<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="500" alt="ShyAd1's contribution streak">
+<img src="https://streak-stats.demolab.com?user=ShyAd1&background=0d1117&border=4c1d95&stroke=7e22ce&ring=a855f7&fire=d8b4fe&currStreakNum=d8b4fe&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&font=Fira%20Code" width="400" alt="ShyAd1's contribution streak">
 
 </div>
 
